@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\bin\Debug\netcoreapp2.1\Lab7_regularExpressions.deps.json
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\bin\Debug\netcoreapp2.1\Lab7_regularExpressions.runtimeconfig.json
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\bin\Debug\netcoreapp2.1\Lab7_regularExpressions.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\bin\Debug\netcoreapp2.1\Lab7_regularExpressions.dll
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\bin\Debug\netcoreapp2.1\Lab7_regularExpressions.pdb
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.dll
+C:\Users\zeL\grandCircus\classExamples\exercises\Lab7_regularExpressions\Lab7_regularExpressions\obj\Debug\netcoreapp2.1\Lab7_regularExpressions.pdb
